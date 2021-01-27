@@ -1,1 +1,1 @@
-# js
+# js snippets & excercises
